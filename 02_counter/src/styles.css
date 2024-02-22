@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    border: 3px solid green;
+    width: 33%;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+#add,#substract{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(61, 156, 13);
+}
+#add{
+    margin-right: 10px;
+}
+#substract{
+    margin-left: 10px;
+}
+.error{
+    color: rgb(54, 4, 255);
+}
